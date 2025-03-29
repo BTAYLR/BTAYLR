@@ -10,5 +10,5 @@ Hi! I'm Taylor, an IT Professional 👋🏾
 
 
 
-{linkedin}: www.linkedin.com/in/btay23
+[linkedin]:www.linkedin.com/in/btay23
 
