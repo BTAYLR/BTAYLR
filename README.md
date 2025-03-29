@@ -6,7 +6,7 @@ Hi! I'm Taylor, an IT Professional 👋🏾
 
 
 <h2> Connect with Me: </h2>
-[<img align="left" alt="BTAYLR | LinkedIn" width=24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+[<img align="left" alt="BTAYLR | LinkedIn" width=24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
 
 
 
