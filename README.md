@@ -5,8 +5,5 @@ Hi! I'm Taylor, an IT Professional 👋🏾
   - [Virtual Machine: Creating a Virtual Machine in Azure](https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-VM)
 
 <h2> Connect with Me: </h2>
-[<img align="left" alt="btay23 | LinkedIn" width=24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
-
-
-[linkedin]: www.linkedin.com/in/btay23
+[<img align="left" alt="btay23 | LinkedIn" width=24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin][linkedin]: www.linkedin.com/in/btay23
 
