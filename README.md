@@ -3,7 +3,7 @@ Hi! I'm Taylor, an IT Professional 👋🏾
 
 - <b> Virtual Machine </b>
 
-  -[Virtual Machine: Creating a Virtual Machine in Azure](https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-VM)
+    -[Virtual Machine: Creating a Virtual Machine in Azure](https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-VM)
 
 <h2> Connect with Me: </h2> 
 
