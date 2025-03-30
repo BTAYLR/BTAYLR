@@ -11,4 +11,4 @@ Hi! I'm Taylor, an IT Professional 👋🏾
 [<img align="left" alt="btay23 | Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 
-[linkedin]: https://linkedin/in/btay23
+[linkedin]: https://linkedin.com/in/btay23
