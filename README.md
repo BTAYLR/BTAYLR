@@ -1,7 +1,7 @@
 Hi! I'm Taylor, an IT Professional 👋🏾
 <h1> Information Technology Project: </h1>
 
-- <b> Virtual Machine </b>
+- <b> Virtual Machine (VM) </b>
 
     - [Virtual Machine: Creating a Windows Virtual Machine in Azure](https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-WINDOWS-VM)
     - [Virtual Machine: Creating a Linux Virtual Machine in Azure](https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-LINUX-VM)
