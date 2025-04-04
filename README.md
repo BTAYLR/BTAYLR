@@ -5,6 +5,7 @@ Hi! I'm Taylor, an IT Professional 👋🏾
 
     - [Virtual Machine: Creating a Windows Virtual Machine in Azure](https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-WINDOWS-VM)
     - [Virtual Machine: Creating a Linux Virtual Machine in Azure](https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-LINUX-VM)
+    - [Virtual Machine: Inspecting Network Traffic on a Windows VM Network](https://github.com/BTAYLR/INSPECTING-NETWORK-TRAFFIC-ON-WINDOWS-VM)
 
 <h2> Connect with Me: </h2> 
 
