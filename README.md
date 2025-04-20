@@ -12,8 +12,8 @@ Hi! I'm Taylor, an IT Professional 👋🏾
 
     - [Active Directory: Preparing Active Directory Infrastructure in Azure](https://github.com/BTAYLR/ACTIVE-DIRECTORY-PREP-AD-INFRASTRUCTURE-IN-AZURE/blob/main/README.md)
     - [Active Directory: Deploying Active Directory](https://github.com/BTAYLR/ACTIVE-DIRECTORY-DEPLOYING-ACTIVE-DIRECTORY)
-    - [Active Directory: Creating Users with Powershell]()
-    - [Active Directory: Group Policy and Managing Accounts]()
+    - [Active Directory: Creating Users with Powershell](https://github.com/BTAYLR/ACTIVE-DIRECTORY-CREATING-USERS-WITH-POWERSHELL)
+    - [Active Directory: Group Policy and Managing Accounts](https://github.com/BTAYLR/ACTIVE-DIRECTORY-GROUP-POLICY-AND-MANAGING-ACCOUNTS/blob/main/README.md)
 
 <h2> Connect with Me: </h2> 
 
