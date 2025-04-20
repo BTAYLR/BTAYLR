@@ -7,6 +7,13 @@ Hi! I'm Taylor, an IT Professional 👋🏾
     - [Virtual Machine: Creating a Linux Virtual Machine in Azure](https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-LINUX-VM)
     - [Virtual Machine: Inspecting Network Traffic on a Windows VM](https://github.com/BTAYLR/INSPECTING-NETWORK-TRAFFIC-ON-WINDOWS-VM)
     - [Virtual Machine: Configuring a Firewall, Network Security Group](https://github.com/BTAYLR/VIRTUAL-MACHINE-CONFIGURING-A-FIREWALL-NSG)
+      
+- <b> Active  Directory </b>
+
+    - Active Directory: Preparing Active Directory Infrastructure in Azure
+    - Active Directory: Deploying Active Directory
+    - Active Directory: Creating Users with Powershell
+    - Active Directory: Group Policy and Managing Accounts
 
 <h2> Connect with Me: </h2> 
 
